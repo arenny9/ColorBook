@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorBook</string>
+    <string name="subtitle">demo offline · letras de colores</string>
+    <string name="compose_cta">＋ Publicar con colores</string>
+    <string name="tab_feed">🏠 Inicio</string>
+    <string name="tab_chat">💬 Chat</string>
+    <string name="tab_themes">🎨 Temas</string>
+    <string name="write_something">Escribe algo primero</string>
+    <string name="preview_empty">Tu texto se verá así…</string>
+    <string name="chat_hint">Escribe un mensaje…</string>
+    <string name="change_name">Tu nombre</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="new_post">Nuevo post</string>
+    <string name="whats_on_your_mind">¿Qué estás pensando?</string>
+    <string name="letter_style">Estilo de letras</string>
+    <string name="style_rainbow">Arcoíris 🌈</string>
+    <string name="style_gradient">Degradado 🌗</string>
+    <string name="style_solid">Color fijo 🎨</string>
+    <string name="main_color">Color principal</string>
+    <string name="publish">Publicar</string>
+    <string name="chat_title">💬 Chat de demo</string>
+    <string name="send">➤</string>
+    <string name="pick_theme">🎨 Elige tu tema</string>
+    <string name="change_name_cta">✏️ Cambiar mi nombre</string>
+</resources>
